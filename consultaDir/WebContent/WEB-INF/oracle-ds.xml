@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datasources>
+<!-- 	<datasource jta="true" jndi-name="java:/jdbc/GEOCOD" pool-name="GEOCOD" enabled="true" use-ccm="true" statistics-enabled="true"> -->
+<!-- 		<driver-class>oracle.jdbc.OracleDriver</driver-class> -->
+<!-- 		<driver>ojdbc6.jar</driver> -->
+<!-- 		<connection-url>jdbc:oracle:thin:@zeus2:1527:CATASTRO</connection-url> -->
+<!-- 		<security> -->
+<!-- 			<user-name>GEOCODIFICADOR</user-name> -->
+<!-- 			<password>gE0cod.1fIks/0N</password> -->
+<!-- 		</security> -->
+<!--         <pool> -->
+<!--             <min-pool-size>2</min-pool-size> -->
+<!--             <initial-pool-size>1</initial-pool-size> -->
+<!--             <max-pool-size>100</max-pool-size> -->
+<!--             <flush-strategy>AllConnections</flush-strategy> -->
+<!--         </pool> -->
+<!--         <validation> -->
+<!--             <check-valid-connection-sql>SELECT 1 FROM DUAL</check-valid-connection-sql> -->
+<!-- 			<background-validation>true</background-validation> -->
+<!-- 			<background-validation-millis>1000</background-validation-millis> -->
+<!--         </validation> -->
+<!-- 	</datasource> -->
+</datasources>
